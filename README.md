@@ -5,3 +5,4 @@ Table of Contents:
 - [Active Directory Setup](Active%20Directory%20Setup/README.md)
 - [Networking Practice](Networking%20Practice/README.md)
 - [Ticketing System Practice](Ticketing%20System%20Practice/README.md)
+- [Troubleshooting Practice](Troubleshooting%20Practice/README.md)
