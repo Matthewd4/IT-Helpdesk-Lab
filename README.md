@@ -4,3 +4,4 @@ This is a home lab I created through a virtualization host. I built a windows do
 Table of Contents:  
 - [Active Directory Setup](Active%20Directory%20Setup/README.md)
 - [Networking Practice](Networking%20Practice/README.md)
+- [Ticketing System Practice](Ticketing%20System%20Practice/README.md)
